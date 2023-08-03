@@ -4,4 +4,5 @@
 <ul> 
   <li> Add more Styles </li>
   <li> Add date box </li>
+  <li> Add deleted section</li>
 </ul>
