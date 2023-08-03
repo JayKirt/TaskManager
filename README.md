@@ -8,5 +8,4 @@
   <li>Add completed section.</li>
   <li>Add tasks to a specific date.</li>
   <li>Give tasks time limits.</li>
-
 </ul>
