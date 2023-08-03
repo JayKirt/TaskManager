@@ -1,4 +1,4 @@
-<h1> <ins> TaskManager. </ins> </h1>
+<h1> <ins> TaskManager. </ins></h1>
 <h3> A list to manage your tasks. </h3>
 <h4> <ins> To do: </ins> </h4>
 <ul> 
